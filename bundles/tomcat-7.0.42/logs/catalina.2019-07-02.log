@@ -1,0 +1,336 @@
+Tem 02, 2019 9:14:46 ÖÖ org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-11.0.3/bin/server;C:/Program Files/Java/jdk-11.0.3/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\giray\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\giray\AppData\Local\Programs\Python\Python36\;C:\Users\giray\AppData\Local\Microsoft\WindowsApps;D:\Windows Programs\PyCharm 2019.1.3\bin;C:\Users\giray\AppData\Roaming\IDM;;.
+Tem 02, 2019 9:14:47 ÖÖ org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Tem 02, 2019 9:14:47 ÖÖ org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Tem 02, 2019 9:14:47 ÖÖ org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 815 ms
+Tem 02, 2019 9:14:47 ÖÖ org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Tem 02, 2019 9:14:47 ÖÖ org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Tem 02, 2019 9:14:47 ÖÖ org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
+Tem 02, 2019 9:15:16 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:17:39 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\calendar-portlet
+Tem 02, 2019 9:17:49 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:17:50 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\kaleo-web
+Tem 02, 2019 9:18:03 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:18:04 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\marketplace-portlet
+Tem 02, 2019 9:18:07 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:18:07 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\notifications-portlet
+Tem 02, 2019 9:18:09 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:18:10 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\opensocial-portlet
+Tem 02, 2019 9:18:35 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:18:36 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\resources-importer-web
+Tem 02, 2019 9:18:37 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:18:38 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\sync-web
+Tem 02, 2019 9:18:40 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:18:40 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\web-form-portlet
+Tem 02, 2019 9:18:43 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:18:43 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\welcome-theme
+Tem 02, 2019 9:18:43 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:18:44 ÖÖ org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Tem 02, 2019 9:18:44 ÖÖ org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Tem 02, 2019 9:18:44 ÖÖ org.apache.catalina.startup.Catalina start
+INFO: Server startup in 237240 ms
+Tem 02, 2019 9:32:17 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\fistProject-portlet
+Tem 02, 2019 9:32:18 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 9:35:18 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/fistProject-portlet]
+Tem 02, 2019 9:35:19 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\fistProject-portlet
+Tem 02, 2019 9:35:19 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:15:51 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:15:51 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:18:52 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:18:52 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:18:53 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:21:23 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:21:24 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:21:24 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:27:25 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:27:25 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:27:26 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:30:16 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:30:17 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:30:17 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:41:58 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:41:58 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:41:59 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:45:39 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:45:40 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:45:40 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:51:51 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:51:51 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:51:52 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:52:52 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:52:53 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:52:53 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:54:04 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:54:04 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:54:05 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:57:05 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:57:06 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:57:06 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 10:58:27 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 10:58:28 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 10:58:28 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 11:00:29 ÖÖ org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/generic-portlet]
+Tem 02, 2019 11:00:29 ÖÖ org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 11:00:30 ÖÖ org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 12:18:50 ÖS org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Tem 02, 2019 12:18:50 ÖS org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Tem 02, 2019 12:18:50 ÖS org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Tem 02, 2019 12:59:34 ÖS org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk-11.0.3\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-11.0.3/bin/server;C:/Program Files/Java/jdk-11.0.3/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\giray\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\giray\AppData\Local\Programs\Python\Python36\;C:\Users\giray\AppData\Local\Microsoft\WindowsApps;D:\Windows Programs\PyCharm 2019.1.3\bin;C:\Users\giray\AppData\Roaming\IDM;;.
+Tem 02, 2019 12:59:35 ÖS org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Tem 02, 2019 12:59:35 ÖS org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Tem 02, 2019 12:59:35 ÖS org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 612 ms
+Tem 02, 2019 12:59:35 ÖS org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Tem 02, 2019 12:59:35 ÖS org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.42
+Tem 02, 2019 12:59:35 ÖS org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\conf\Catalina\localhost\ROOT.xml
+Tem 02, 2019 12:59:35 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:02:09 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\calendar-portlet
+Tem 02, 2019 1:02:20 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:02:21 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\fistProject-portlet
+Tem 02, 2019 1:02:21 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:02:22 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\generic-portlet
+Tem 02, 2019 1:02:22 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:02:23 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\kaleo-web
+Tem 02, 2019 1:02:35 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:02:36 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\marketplace-portlet
+Tem 02, 2019 1:02:40 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:02:47 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\notifications-portlet
+Tem 02, 2019 1:02:48 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:02:50 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\opensocial-portlet
+Tem 02, 2019 1:03:19 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:03:27 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\resources-importer-web
+Tem 02, 2019 1:03:28 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:03:29 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\sync-web
+Tem 02, 2019 1:03:32 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:03:33 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\web-form-portlet
+Tem 02, 2019 1:03:36 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:03:37 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\welcome-theme
+Tem 02, 2019 1:03:38 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:03:40 ÖS org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Tem 02, 2019 1:03:40 ÖS org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Tem 02, 2019 1:03:40 ÖS org.apache.catalina.startup.Catalina start
+INFO: Server startup in 245611 ms
+Tem 02, 2019 1:13:41 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 1:13:41 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:32:42 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/mvc-portlet]
+Tem 02, 2019 1:32:43 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 1:32:43 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:33:54 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/mvc-portlet]
+Tem 02, 2019 1:33:54 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 1:33:55 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:41:25 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/mvc-portlet]
+Tem 02, 2019 1:41:26 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 1:41:26 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:49:47 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/mvc-portlet]
+Tem 02, 2019 1:49:47 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 1:49:48 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:54:48 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/mvc-portlet]
+Tem 02, 2019 1:54:49 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 1:54:49 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 1:57:20 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/mvc-portlet]
+Tem 02, 2019 1:57:20 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 1:57:21 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 2:00:11 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/mvc-portlet]
+Tem 02, 2019 2:00:12 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 2:00:12 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 2:03:23 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/mvc-portlet]
+Tem 02, 2019 2:03:23 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\mvc-portlet
+Tem 02, 2019 2:03:24 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 3:41:56 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Liferay MVC-portlet
+Tem 02, 2019 3:41:56 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 3:43:37 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Liferay MVC-portlet]
+Tem 02, 2019 3:43:37 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Liferay MVC-portlet
+Tem 02, 2019 3:43:38 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 4:50:40 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 4:50:40 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 5:09:51 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 5:09:52 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 5:09:52 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 5:12:43 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 5:12:43 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 5:12:44 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 5:17:55 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 5:17:55 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 5:17:55 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 5:26:06 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 5:26:07 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 5:26:07 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 5:33:38 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 5:33:39 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 5:33:39 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 7:38:54 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 7:38:54 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 7:38:55 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 7:41:46 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 7:41:46 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 7:41:47 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 7:43:47 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 7:43:48 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 7:43:48 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader
+Tem 02, 2019 7:47:29 ÖS org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context [/Validation-portlet]
+Tem 02, 2019 7:47:29 ÖS org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\Projeler\Eclipse Workspace\bundles\tomcat-7.0.42\webapps\Validation-portlet
+Tem 02, 2019 7:47:30 ÖS org.apache.catalina.loader.WebappLoader buildClassPath
+INFO: Unknown loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 class jdk.internal.loader.ClassLoaders$AppClassLoader

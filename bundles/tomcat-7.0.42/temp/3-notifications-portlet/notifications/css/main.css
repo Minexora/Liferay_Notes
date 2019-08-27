@@ -1,0 +1,237 @@
+@import "compass";
+
+.dockbar-user-notifications, .notifications-portlet {
+	.user-notifications-count {
+		background-color: #0066B3;
+		border: 1px solid #0066B3;
+		padding: 2px 6px;
+
+		&.alert {
+			background-color: #FAA732;
+			border: 1px solid #FAA732;
+			color: #FFF;
+		}
+	}
+
+	.dropdown-menu {
+		width: 350px;
+	}
+
+	.user-notifications-list {
+		list-style: none;
+		margin: 0;
+
+		.message {
+			text-align: center;
+
+			&.top {
+				border-bottom: 1px solid #FFF;
+			}
+
+			&.bottom {
+				border-top: 1px solid #FFF;
+			}
+
+			.left-nav {
+				float: left;
+				padding: 0 10px;
+			}
+
+			.right-nav {
+				float: right;
+				padding: 0 10px;
+			}
+
+			a:hover {
+				text-decoration: none;
+			}
+
+			.disabled a {
+				color: #FFF;
+				cursor: default;
+			}
+		}
+
+		.user-notification {
+			a {
+				clear: both;
+				display: block;
+				font-weight: normal;
+				padding: 5px;
+				white-space: normal;
+			}
+
+			a:hover {
+				color: #FFF;
+				text-decoration: none;
+			}
+
+			.icon-remove-circle {
+				left: 330px;
+				position: relative;
+				top: 20px;
+			}
+
+			.sender {
+				float: left;
+				position: relative;
+
+				.user-thumbnail img {
+					@include border-radius(50%);
+					@include box-shadow(0 0 0 2px #5594E0);
+
+					margin: 5px 10px 0 0;
+					width: 30px;
+				}
+
+				.portlet-icon {
+					bottom: 0;
+					left: 0;
+					position: absolute;
+				}
+			}
+
+			.read {
+				float: right;
+				font-size: 11px;
+			}
+
+			.timestamp {
+				display: inline;
+				font-size: 11px;
+			}
+
+			.content {
+				margin-left: 40px;
+			}
+		}
+	}
+}
+
+.notifications-portlet {
+	.user-notifications-sidebar {
+		float: left;
+		padding: 0 10px 0 0;
+		width: 18%;
+	}
+
+	.nav {
+		margin-bottom: 10px;
+
+		a {
+			color: #333333;
+			display: block;
+			padding: 5px 10px;
+
+			.title {
+				float: left;
+			}
+
+			.count {
+				float: right;
+			}
+		}
+
+		a:hover {
+			background-color: #0A85E4;
+			color: #FFF;
+			text-decoration: none;
+		}
+
+		a.selected {
+			background-color: #0A85E4;
+			color: #FFF;
+		}
+	}
+
+	.user-notifications-list-container {
+		border: 1px solid #D5D5D5;
+		float: left;
+		width: 80%;
+
+		.loading-mask {
+			min-height: 30px;
+		}
+	}
+
+	.user-notifications-list {
+		.user-notification {
+			a {
+				border-bottom: 1px solid #D5D5D5;
+				padding: 15px;
+			}
+
+			a:hover {
+				background-color: #0A85E4;
+				color: #FFF;
+				text-decoration: none;
+			}
+
+			&.unread {
+				background-color: #FAFAFA;
+			}
+		}
+
+		.message {
+			&.top {
+				border-bottom: 1px solid #D5D5D5;
+			}
+		}
+	}
+
+	.manage-notifications {
+		padding: 5px;
+
+		.title {
+			margin-bottom: 10px;
+
+			.notification-delivery {
+				font-size: 16px;
+				font-weight: bold;
+				margin-bottom: 10px;
+			}
+		}
+
+		.notification-deliveries {
+			caption {
+				font-size: 14px;
+				font-weight: bold;
+				margin-bottom: 10px 0;
+				text-align: left;
+			}
+		}
+	}
+}
+
+/* ---------- Extras ---------- */
+
+.dockbar-user-notifications {
+	.user-notifications-count {
+		@include border-radius(4px);
+	}
+}
+
+.notifications-portlet {
+	.nav {
+		a:hover {
+			@include border-radius(4px);
+		}
+
+		a.selected {
+			@include border-radius(4px);
+		}
+	}
+
+	.user-notifications-list-container {
+		@include border-radius(4px);
+	}
+}
+
+.aui li.user-notification {
+	line-height: 20px;
+}
+
+.aui .dockbar .nav li.dropdown.dockbar-user-notifications .dropdown-menu {
+	left: auto;
+	right: 0;
+}
